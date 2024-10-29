@@ -7,4 +7,4 @@
 <img width="400px" height="400px" src="https://github.com/oscarholst/oscarholst/blob/master/rpi_dockerswarm.jpg?raw=true">
 :zap: My little Raspberry Pi cluster rocking a Docker Swarm set-up. :whale: -->
 
-<img style="height: 115px !important;" src="zyxel-elite.png"> <img src="https://images.youracclaim.com/size/110x110/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png">
+<img style="height: 115px !important;" src="zyxel-elite.png"> <img style="height: 115px !important;" src="zyxel-zcna.png"> <img src="https://images.youracclaim.com/size/110x110/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png">
